@@ -1,0 +1,202 @@
+{
+  "Representative 1": {
+    "constituency": "Alcester",
+    "popularity": 0.5,
+    "partyID": "SSP"
+  },
+  "Representative 2": {
+    "constituency": "Ambleside East",
+    "popularity": 0.5,
+    "partyID": "DSP"
+  },
+  "Representative 3": {
+    "constituency": "Banbury-East",
+    "popularity": 0.5,
+    "partyID": "GPS"
+  },
+  "Representative 4": {
+    "constituency": "Barnard Castle",
+    "popularity": 0.5,
+    "partyID": "PLP"
+  },
+  "Representative 5": {
+    "constituency": "Burdek",
+    "popularity": 0.5,
+    "partyID": "UPS"
+  },
+  "Representative 6": {
+    "constituency": "Burton",
+    "popularity": 0.5,
+    "partyID": "SNP"
+  },
+  "Representative 7": {
+    "constituency": "Colburn North",
+    "popularity": 0.5,
+    "partyID": "SDP"
+  },
+  "Representative 8": {
+    "constituency": "Croyden West",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 9": {
+    "constituency": "Daventry West",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 10": {
+    "constituency": "Donnington-Southwest",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 11": {
+    "constituency": "Felixstowe",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 12": {
+    "constituency": "Ferndown-South",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 13": {
+    "constituency": "Gounslow-North",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 14": {
+    "constituency": "Hartland East",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 15": {
+    "constituency": "Hythe",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 16": {
+    "constituency": "Ilford South",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 17": {
+    "constituency": "Jarrow",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 18": {
+    "constituency": "Jerilyn",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 19": {
+    "constituency": "Kempston",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 20": {
+    "constituency": "Kettering",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 21": {
+    "constituency": "Ketterman",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 22": {
+    "constituency": "Kimberley West",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 23": {
+    "constituency": "Langport-Cricklade",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 24": {
+    "constituency": "Ledbury",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 25": {
+    "constituency": "Leiston",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 26": {
+    "constituency": "Oakham-Claire",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 27": {
+    "constituency": "Porthleven",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 28": {
+    "constituency": "Redditch",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 29": {
+    "constituency": "Skegness",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 30": {
+    "constituency": "Spennymore",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 31": {
+    "constituency": "Stanhope East",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 32": {
+    "constituency": "Stockton-South",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 33": {
+    "constituency": "Strathdon-South",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 34": {
+    "constituency": "Tadcaster",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 35": {
+    "constituency": "Templeton Center",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 36": {
+    "constituency": "Thornaby-on-Tees",
+    "popularity": 0.5,
+    "partyID": "LPS"
+  },
+  "Representative 37": {
+    "constituency": "Tiverton",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 38": {
+    "constituency": "Verwood",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 39": {
+    "constituency": "Weldon-Padstow",
+    "popularity": 0.5,
+    "partyID": ""
+  },
+  "Representative 40": {
+    "constituency": "Yarm",
+    "popularity": 0.5,
+    "partyID": ""
+  }
+}
